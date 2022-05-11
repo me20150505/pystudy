@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+matplotlib/result/
 .Python
 build/
 develop-eggs/
